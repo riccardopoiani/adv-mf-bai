@@ -1,0 +1,15 @@
+n_arms: 2
+m_fidelity: 2
+fidelity_bounds:
+  - 0.1
+  - 0.0
+costs:
+  - 0.1
+  - 5
+arms:
+  - - 0.46
+    - 0.5
+  - - 0.64
+    - 0.6
+dist_type: gaussian
+other_fixed_dist_param: 1.0
