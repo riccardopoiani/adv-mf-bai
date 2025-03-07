@@ -1,4 +1,4 @@
-# Code for the paper "Optimal Multi-Fidelity Best-Arm Identification"
+# Code for the paper "Optimal Multi-Fidelity Best-Arm Identification" (NeurIPS 2024)
 
 The file `requirements.txt` provides the dependency for the project. 
 We relied on python 3.8 for the development of this project.
